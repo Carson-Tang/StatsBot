@@ -1,7 +1,8 @@
 # StatsBot
 Discord Bot that displays previous match and player statistics from various games
 
-![current status](https://i.gyazo.com/6f93ed03329fd827a8418198a77d455f.png)
+<img src="https://i.gyazo.com/6f93ed03329fd827a8418198a77d455f.png" width="300" height="400">
+
 ### TODO:
 > Dota 2
 - [x] Match Stats
